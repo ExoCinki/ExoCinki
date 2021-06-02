@@ -75,7 +75,7 @@
 </br>
 📫 You can reach me:
 </br>
-<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
+<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80"><p></p>
 <a href="mailto:aolacot@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a>
 </br>
 </br>
