@@ -12,9 +12,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="SQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>SQL
+      <br>MySQL
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
@@ -30,7 +30,7 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -43,7 +43,7 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
@@ -63,9 +63,9 @@
   </td>
       <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="MSSQL" />
       </a>
-      <br>Sécurity
+      <br>MSSQL
     </td>
 </table>
 </br>
