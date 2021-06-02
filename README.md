@@ -1,4 +1,4 @@
-### Hello my friend <img src="https://acegif.com/wp-content/gif/outerspace-58.gif" width="30px">
+### Hello my friend <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png" width="30px">
 
 <img height="350px" width="1000px" src="https://acegif.com/wp-content/gif/outerspace-58.gif"/>
 
