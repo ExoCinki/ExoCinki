@@ -1,4 +1,4 @@
-### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello my friend <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1309645508" width="30px">
 
 <img height="350px" width="1000px" src="./galaxy.gif"/>
 
