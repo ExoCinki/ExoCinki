@@ -90,32 +90,3 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
-
-  
-
-
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a><a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=React-Native-PomodoroAPP&theme=nightowl"></a>
-  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
-</p>
-<br><br>
-<br><br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
- <a href="https://github.com/MacroPower/ThalesBMC">
-    <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
- </a>
-
-
-
-
-
-
