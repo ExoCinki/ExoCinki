@@ -52,7 +52,7 @@
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Boostrap
+      <br>Bootstrap
     </td>
 
   <td align="center"  width="140" height="112.43">
