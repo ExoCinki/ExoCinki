@@ -1,4 +1,4 @@
-### Hello my friend <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1309645508" width="30px">
+### Hello my friend <img src="https://steamuserimages-a.akamaihd.net/ugc/1253638337187925749/79E7E8F1D990D608A9F420DCC6102F51E80549CC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="30px">
 
 <img height="350px" width="1000px" src="./galaxy.gif"/>
 
