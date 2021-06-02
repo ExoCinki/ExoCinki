@@ -6,58 +6,58 @@
   <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+        <img src="./react-original.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
       </a>
       <br>JS
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./sass-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./git.svg" width="48" height="48" alt="Git" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+        <img src="./nextjs.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Boostrap
     </td>
 
   <td align="center"  width="140" height="112.43">
   <a href="#macropower-tech">
-       <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+       <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="AES" />
   </a>
    <br>AES
   </td>
