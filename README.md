@@ -45,7 +45,7 @@
       <a href="#macropower-tech">
         <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Next.js
+      <br>C#
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
@@ -56,7 +56,18 @@
     </td>
    </tr>
   </tr>
-  
+  <td align="center"  width="140" height="112.43">
+  <a href="#macropower-tech">
+       <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+  </a>
+   <br>AES
+  </td>
+      <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Sécurity
+    </td>
 </table>
 </br>
 
