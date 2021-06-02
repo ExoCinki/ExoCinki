@@ -54,8 +54,7 @@
       </a>
       <br>Boostrap
     </td>
-   </tr>
-  </tr>
+
   <td align="center"  width="140" height="112.43">
   <a href="#macropower-tech">
        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
@@ -70,7 +69,8 @@
     </td>
 </table>
 </br>
-
+   </tr>
+  </tr>
 
 </br>
 📫 You can reach me:
