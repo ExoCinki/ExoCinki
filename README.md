@@ -79,8 +79,8 @@
 <a href="mailto:aolacot@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a></p>
 </br>
 </br>
+ <p align="center"> [ExoCinki GitHub stats]</p>
 <p align="center">
- <p> [![ExoCinki GitHub stats]]</p>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ExoCinki&theme=gruvbox&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true"/></p>
 
 <p align="center">
