@@ -34,8 +34,7 @@
       </a>
       <br>C++
     </td>
-    <tr>
-     <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
@@ -54,13 +53,13 @@
       </a>
       <br>Bootstrap
     </td>
-
-  <td align="center"  width="140" height="112.43">
+    <tr>
+ <td align="center"  width="140" height="112.43">
   <a href="#macropower-tech">
        <img src="https://icons.iconarchive.com/icons/icons8/ios7/64/Network-Security-Aes-icon.png" width="48" height="48" alt="AES" />
   </a>
    <br>AES
-  </td>
+ </td>
       <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="MSSQL" />
@@ -110,6 +109,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="MSSQL" />
       </a>
       <br>Tailwind
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Ubuntu
     </td>
 </table>
 </br>
