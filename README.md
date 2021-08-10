@@ -67,6 +67,50 @@
       </a>
       <br>MSSQL
     </td>
+      </td>
+      <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Symfony
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Bulma
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Composer
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Doctrine
+    </td>
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="MSSQL" />
+      </a>
+      <br>Tailwind
+    </td>
 </table>
 </br>
    </tr>
