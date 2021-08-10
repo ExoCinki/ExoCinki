@@ -53,13 +53,14 @@
       </a>
       <br>Bootstrap
     </td>
-    <tr>
  <td align="center"  width="140" height="112.43">
   <a href="#macropower-tech">
        <img src="https://icons.iconarchive.com/icons/icons8/ios7/64/Network-Security-Aes-icon.png" width="48" height="48" alt="AES" />
   </a>
    <br>AES
  </td>
+    <tr>
+
       <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="MSSQL" />
