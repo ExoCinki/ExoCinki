@@ -103,12 +103,6 @@
       </a>
       <br>Tailwind
     </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Ubuntu
-    </td>
 </table>
 </br>
    </tr>
