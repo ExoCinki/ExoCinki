@@ -74,9 +74,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="48" height="48" alt="MSSQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="MSSQL" />
       </a>
-      <br>Composer
+      <br>Pandas
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
