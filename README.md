@@ -111,5 +111,5 @@
 </br>
 <p align="center">📫 You can reach me:
 </br>
-<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
-<a href="mailto:aolacot@gmail.com"><img src="https://img.icons8.com/color/344/gmail--v1.png" width="50"></a></p>
+<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height ="50" width="50">
+<a href="mailto:aolacot@gmail.com"><img src="https://img.icons8.com/color/344/gmail--v1.png" height ="50" width="50"></a></p>
