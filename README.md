@@ -86,9 +86,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MSSQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>MySQL
+      <br>Django
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
