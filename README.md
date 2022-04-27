@@ -49,9 +49,9 @@
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="Postgres" />
       </a>
-      <br>Bootstrap
+      <br>Postgres
     </td>
     <tr>
       <td align="center"  width="140" height="112.43">
