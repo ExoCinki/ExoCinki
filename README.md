@@ -24,9 +24,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="JS" />
       </a>
-      <br>JS
+      <br>GO
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
