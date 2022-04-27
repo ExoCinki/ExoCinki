@@ -111,14 +111,10 @@
 </br>
 <p align="center">📫 You can reach me:
 </br>
-<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
-<a href="mailto:aolacot@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a></p>
+<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="50">
+<a href="mailto:aolacot@gmail.com"><img src="https://img.icons8.com/color/344/gmail--v1.png" width="50"></a></p>
 </br>
 </br>
- <p align="center"> [ExoCinki GitHub stats]</p>
-<p align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ExoCinki&theme=gruvbox&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true"/></p>
-
 <p align="center">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
