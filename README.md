@@ -99,6 +99,8 @@
       </a>
       <br>Tailwind
     </td>
+  </tr>
+    <tr>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width="48" height="48" alt="Lua" />
@@ -123,7 +125,7 @@
       </a>
       <br>React
     </td>
-
+</tr>
 </table>
 </br>
    </tr>
