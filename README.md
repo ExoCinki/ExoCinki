@@ -49,18 +49,6 @@
       </a>
       <br>Postgres
     </td>
-        <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
     <tr>
       <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
@@ -104,7 +92,7 @@
       </a>
       <br>Python
     </td>
-    </td>
+    <br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="MSSQL" />
@@ -122,6 +110,18 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
     </td>
 
 </table>
