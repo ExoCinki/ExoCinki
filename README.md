@@ -129,7 +129,7 @@
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>FastAPI
     </td>
 </tr>
 </table>
