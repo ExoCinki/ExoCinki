@@ -93,17 +93,11 @@
       <br>Python
     </td>
     <br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Tailwind
-    </td>
   </tr>
     <tr>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width="48" height="48" alt="Lua" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
     </td>
@@ -127,13 +121,7 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
