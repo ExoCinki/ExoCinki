@@ -1,23 +1,5 @@
 <table align= "center">
   <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS
-    </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="JS" />
@@ -30,61 +12,18 @@
       </a>
       <br>C++
     </td>
-    <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="Postgres" />
-      </a>
-      <br>Postgres
-    </td>
     <tr>
-      <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>MSSQL
-    </td>
-      <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Symfony
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Bulma
-    </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="MSSQL" />
       </a>
       <br>Pandas
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
