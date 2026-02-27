@@ -1,74 +1,49 @@
-<table align= "center">
-  <tr>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="JS" />
-      </a>
-      <br>GO
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>Python
-    </td>
-    <tr>
-     <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
-      </a>
-      <br>Lua
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-</tr>
-</table>
-</br>
-   </tr>
-  </tr>
+<h3 align="center">Tech Stack</h3>
 
-</br>
-<p align="center">📫 You can reach me:
-</br>
-<a href="https://www.linkedin.com/in/aodr%C3%ABn-lacot-le-clanche-b042b2160/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height ="50" width="50">
-<a href="mailto:aolacot@gmail.com"><img src="https://img.icons8.com/color/344/gmail--v1.png" height ="50" width="50"></a></p>
+<div align="center">
+  <h4>Languages</h4>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  </p>
+
+  <h4>Infrastructure & DevOps</h4>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-plain-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/>
+    
+  </p>
+
+  <h4>Cloud & Hébergement</h4>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/331524/ovh-v2.svg" width="40" height="40" alt="OVH"/>
+    <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" width="40" height="40" alt="Scaleway"/>
+  </p>
+
+  <h4>Design</h4>
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+  </p>
+</div>
