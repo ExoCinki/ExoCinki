@@ -1,5 +1,3 @@
-<h3 align="center">Tech Stack</h3>
-
 <div align="center">
   <h4>Languages</h4>
   <p>
